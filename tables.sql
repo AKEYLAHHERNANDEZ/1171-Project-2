@@ -52,7 +52,6 @@ funding TEXT
 
 
 --Table 5
---fix
 CREATE TABLE Student_information
 (
 student_id INT PRIMARY KEY,
